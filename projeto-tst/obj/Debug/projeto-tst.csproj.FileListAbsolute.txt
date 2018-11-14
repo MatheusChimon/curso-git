@@ -1,0 +1,7 @@
+C:\Users\Leticia\Desktop\projeto-tst\projeto-tst\bin\Debug\projeto-tst.exe.config
+C:\Users\Leticia\Desktop\projeto-tst\projeto-tst\bin\Debug\projeto-tst.exe
+C:\Users\Leticia\Desktop\projeto-tst\projeto-tst\bin\Debug\projeto-tst.pdb
+C:\Users\Leticia\Desktop\projeto-tst\projeto-tst\obj\Debug\projeto-tst.csprojAssemblyReference.cache
+C:\Users\Leticia\Desktop\projeto-tst\projeto-tst\obj\Debug\projeto-tst.csproj.CoreCompileInputs.cache
+C:\Users\Leticia\Desktop\projeto-tst\projeto-tst\obj\Debug\projeto-tst.exe
+C:\Users\Leticia\Desktop\projeto-tst\projeto-tst\obj\Debug\projeto-tst.pdb
